@@ -1,2 +1,3 @@
 # SWOT
-Strongh Weakness Opportunities Treats.
+Stronght Weakness Opportunities Treats
+
